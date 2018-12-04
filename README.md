@@ -1,3 +1,4 @@
 # Helloworld
 helloworld
-This is a test
+This is a test.
+This should trigger an automatic Jenkins build
